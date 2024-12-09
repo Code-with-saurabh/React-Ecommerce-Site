@@ -1,5 +1,6 @@
 {
   "files": {
+<<<<<<< HEAD
     "main.css": "/static/css/main.0d28778b.chunk.css",
     "main.js": "/static/js/main.7e3607d0.chunk.js",
     "main.js.map": "/static/js/main.7e3607d0.chunk.js.map",
@@ -11,6 +12,19 @@
     "precache-manifest.4088508310394e8c990038445223609e.js": "/precache-manifest.4088508310394e8c990038445223609e.js",
     "service-worker.js": "/service-worker.js",
     "static/css/main.0d28778b.chunk.css.map": "/static/css/main.0d28778b.chunk.css.map",
+=======
+    "main.css": "/static/css/main.e2d3fb78.chunk.css",
+    "main.js": "/static/js/main.a201a70d.chunk.js",
+    "main.js.map": "/static/js/main.a201a70d.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.663dd8c0.js",
+    "runtime~main.js.map": "/static/js/runtime~main.663dd8c0.js.map",
+    "static/js/2.60d25417.chunk.js": "/static/js/2.60d25417.chunk.js",
+    "static/js/2.60d25417.chunk.js.map": "/static/js/2.60d25417.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.7649c90a781a6d723b16bcd6fc20c793.js": "/precache-manifest.7649c90a781a6d723b16bcd6fc20c793.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.e2d3fb78.chunk.css.map": "/static/css/main.e2d3fb78.chunk.css.map",
+>>>>>>> 157c244 (Update project files)
     "static/media/1.jpg": "/static/media/1.7437eafe.jpg",
     "static/media/11.jpg": "/static/media/11.1dc4922e.jpg",
     "static/media/12.jpg": "/static/media/12.369996ad.jpg",
@@ -61,6 +75,10 @@
     "static/media/Vintage_Olive Crewneck_with Leather_Shield Patch.jpg": "/static/media/Vintage_Olive Crewneck_with Leather_Shield Patch.b39850fe.jpg",
     "static/media/White Sneakers and Blue Jeans Street Style.jpg": "/static/media/White Sneakers and Blue Jeans Street Style.dec5b3ca.jpg",
     "static/media/background2.mp4": "/static/media/background2.94336074.mp4",
+<<<<<<< HEAD
+=======
+    "static/media/baggyflower.png": "/static/media/baggyflower.92385d79.png",
+>>>>>>> 157c244 (Update project files)
     "static/media/f1.jpg": "/static/media/f1.ac88a2ad.jpg",
     "static/media/f2.jpg": "/static/media/f2.fa575062.jpg",
     "static/media/f3.jpg": "/static/media/f3.da57137c.jpg",
@@ -69,6 +87,11 @@
     "static/media/f6-2.jpg": "/static/media/f6-2.98b50b83.jpg",
     "static/media/f6.jpg": "/static/media/f6.f3889da3.jpg",
     "static/media/f7.jpg": "/static/media/f7.d371ff81.jpg",
+<<<<<<< HEAD
+=======
+    "static/media/garybagg.png": "/static/media/garybagg.03fadeb6.png",
+    "static/media/gry.png": "/static/media/gry.be5ecf4c.png",
+>>>>>>> 157c244 (Update project files)
     "static/media/n1.jpg": "/static/media/n1.431a9c64.jpg",
     "static/media/n2.jpg": "/static/media/n2.a386b88a.jpg",
     "static/media/n3.jpg": "/static/media/n3.ae2f9877.jpg",
@@ -77,7 +100,18 @@
     "static/media/n6.jpg": "/static/media/n6.99ec3409.jpg",
     "static/media/n7.jpg": "/static/media/n7.79c101d8.jpg",
     "static/media/n8.jpg": "/static/media/n8.9e0b8f03.jpg",
+<<<<<<< HEAD
     "static/media/profile.jpg": "/static/media/profile.ab2c5561.jpg",
     "static/media/star.png": "/static/media/star.191abd1e.png"
+=======
+    "static/media/pant.png": "/static/media/pant.96347e74.png",
+    "static/media/printedblackpan.png": "/static/media/printedblackpan.eac4fa96.png",
+    "static/media/profile.jpg": "/static/media/profile.ab2c5561.jpg",
+    "static/media/shirt.jpg": "/static/media/shirt.31d08f0e.jpg",
+    "static/media/star.png": "/static/media/star.191abd1e.png",
+    "static/media/sweatpants.png": "/static/media/sweatpants.eedcb91e.png",
+    "static/media/wh.png": "/static/media/wh.ae6fa5ec.png",
+    "static/media/yead.png": "/static/media/yead.366b7d95.png"
+>>>>>>> 157c244 (Update project files)
   }
 }
