@@ -69,8 +69,17 @@ You can view the live demo of the eCommearc Bazaar application by clicking the l
   - **sign up** :
  
   ![sign up](./static/ass/signup.png)
+
+   - **home pages** :
+ 
+  ![homepages](./static/ass/homepage1.png)
+
+  ![homepages](./static/ass/homepage2.png)
   
-  - **product page1** :
+  ![homepages](./static/ass/homepage3.png)
+
+  
+  - **product pages** :
   
   ![product pages](./static/ass/productpage1.png)
 
@@ -80,10 +89,4 @@ You can view the live demo of the eCommearc Bazaar application by clicking the l
   
   ![product pages](./static/ass/productpage4.png)
  
-  - **home page 1** :
  
-  ![homepages](./static/ass/homepage1.png)
-
-  ![homepages](./static/ass/homepage2.png)
-  
-  ![homepages](./static/ass/homepage3.png)
