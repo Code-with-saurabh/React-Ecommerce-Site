@@ -90,3 +90,22 @@ You can view the live demo of the eCommearc Bazaar application by clicking the l
   ![product pages](./static/ass/productpage4.png)
  
  
+  - **add to cart page** : 
+  
+  ![addtocartpage](./static/ass/addtocartpage.png)
+  
+  ##Deployment
+  
+  - **becakend Image** : 
+  
+  ![becakend](./static/ass/becakend.png)
+  
+  - **database** : 
+  
+  ![database](./static/ass/database.png)
+  
+  - **frontend** :
+
+  ![frontend](./static/ass/frontend.png)
+  
+  
