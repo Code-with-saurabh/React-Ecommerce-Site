@@ -94,7 +94,7 @@ You can view the live demo of the eCommearc Bazaar application by clicking the l
   
   ![addtocartpage](./static/ass/addtocartpage.png)
   
-  ##Deployment
+  ## Deployment
   
   - **becakend Image** : 
   
