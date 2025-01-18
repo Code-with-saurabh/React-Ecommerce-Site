@@ -59,4 +59,10 @@ You can view the live demo of the eCommearc Bazaar application by clicking the l
 - **Responsive Design**: Optimized for a seamless shopping experience across mobile, tablet, and desktop devices.
 - **State Management with Redux**: Global state management for cart, user, and product data to ensure smooth user experience.
 - **Routing with React Router**: Navigate between pages like Home, Product Detail, Cart, and Login seamlessly.
+
+
+  ## Images
+
+  - **login**:
+  ![Login img](./static/ass/login.png)
  
