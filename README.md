@@ -48,7 +48,8 @@ This project was developed as part of my **5th semester diploma work** for learn
 
 You can view the live demo of the eCommearc Bazaar application by clicking the link below:
 
-[**E-Commearc Bazaar Live Demo**](https://ecommearcbazaar.netlify.app/)
+[**E-Commearc Bazaar Live Demo**](https://ecommercebazaar.netlify.app/)
+
 ## Features
 
 - **Product Catalog**: View a wide range of products with sorting and filtering options to help users find what they're looking for.
